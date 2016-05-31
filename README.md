@@ -1,3 +1,2 @@
-# WarGame1
-
+# WarGame
 游戏人生的博客
